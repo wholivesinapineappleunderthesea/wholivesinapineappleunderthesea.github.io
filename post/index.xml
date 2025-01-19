@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oxygen</title>
+      <link>/post/oxygen/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/post/oxygen/</guid>
+      <description>&lt;p&gt;Info about the craziest personal project I&amp;rsquo;ve ever worked on.&lt;/p&gt;&#xA;&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;&#xA;&lt;p&gt;In January 2024, I submitted a project for the Develop at Ubisoft Toronto competition. It was a simple isometric, local multiplayer game that I had crunched over a couple of days to complete. I was not overly proud of it. It was a lazy attempt just to get something done.&lt;/p&gt;&#xA;&lt;p&gt;Though I was entirely confident of my skills as a programmer and felt as though I nailed the interview, this project was a mess. Coming in second place was not a massive surprise; I certainly hoped for a different outcome, but I was aware that I needed to push myself further.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
